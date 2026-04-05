@@ -1,0 +1,77 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[2972,["972","static/chunks/972-380f0c685af81116.js","406","static/chunks/app/algorithm/%5Bslug%5D/page-8e24812bc294e41e.js"],""]
+4:["slug","leetcode-451","d"]
+0:["q18AC58cTrMiexkWaYPtw",[[["",{"children":["algorithm",{"children":[["slug","leetcode-451","d"],{"children":["__PAGE__?{\"slug\":\"leetcode-451\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["algorithm",{"children":[["slug","leetcode-451","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","algorithm","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1cace26cca33c81d.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_744198 __variable_d03a71","children":["$","body",null,{"children":[["$","div",null,{"className":"bg-animated","aria-hidden":"true","children":[["$","div",null,{"className":"bg-orb bg-orb-1"}],["$","div",null,{"className":"bg-orb bg-orb-2"}],["$","div",null,{"className":"bg-orb bg-orb-3"}],["$","div",null,{"className":"bg-orb bg-orb-4"}]]}],["$","header",null,{"className":"sticky top-0 z-10 bg-gray-950/60 backdrop-blur-md border-b border-gray-800/60","children":["$","nav",null,{"className":"max-w-3xl mx-auto px-4 h-14 flex items-center justify-between","children":[["$","$L6",null,{"href":"/","className":"font-ui text-sm font-medium tracking-tight group","children":[["$","span",null,{"className":"text-gray-600 group-hover:text-accent transition-colors","children":"["}],["$","span",null,{"className":"text-gray-200 group-hover:text-accent transition-colors mx-0.5","children":"tyasrio"}],["$","span",null,{"className":"text-gray-600 group-hover:text-accent transition-colors","children":"]"}]]}],["$","ul",null,{"className":"flex items-center gap-5","children":[["$","li","/",{"children":["$","$L6",null,{"href":"/","target":"$undefined","rel":"$undefined","className":"font-ui text-xs text-gray-500 hover:text-accent transition-colors relative group","children":["Home",["$","span",null,{"className":"absolute -bottom-0.5 left-0 w-0 h-px bg-accent group-hover:w-full transition-all duration-300"}]]}]}],["$","li","/note",{"children":["$","$L6",null,{"href":"/note","target":"$undefined","rel":"$undefined","className":"font-ui text-xs text-gray-500 hover:text-accent transition-colors relative group","children":["Note",["$","span",null,{"className":"absolute -bottom-0.5 left-0 w-0 h-px bg-accent group-hover:w-full transition-all duration-300"}]]}]}],["$","li","/algorithm",{"children":["$","$L6",null,{"href":"/algorithm","target":"$undefined","rel":"$undefined","className":"font-ui text-xs text-gray-500 hover:text-accent transition-colors relative group","children":["Algorithm",["$","span",null,{"className":"absolute -bottom-0.5 left-0 w-0 h-px bg-accent group-hover:w-full transition-all duration-300"}]]}]}],["$","li","/timeline",{"children":["$","$L6",null,{"href":"/timeline","target":"$undefined","rel":"$undefined","className":"font-ui text-xs text-gray-500 hover:text-accent transition-colors relative group","children":["Timeline",["$","span",null,{"className":"absolute -bottom-0.5 left-0 w-0 h-px bg-accent group-hover:w-full transition-all duration-300"}]]}]}],["$","li","https://github.com/nyxicemoon",{"children":["$","$L6",null,{"href":"https://github.com/nyxicemoon","target":"_blank","rel":"noopener noreferrer","className":"font-ui text-xs text-gray-500 hover:text-accent transition-colors relative group","children":["GitHub",["$","span",null,{"className":"absolute -bottom-0.5 left-0 w-0 h-px bg-accent group-hover:w-full transition-all duration-300"}]]}]}]]}]]}]}],["$","main",null,{"className":"max-w-3xl mx-auto px-4 py-12 page-enter","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"text-center py-10 border-t border-gray-800/50","children":["$","p",null,{"className":"font-mono text-xs text-gray-600 tracking-widest uppercase","children":["MIT Licensed  ·  © 2019–",2026," Tyasrio"]}]}]]}]}]],null],null],["$L7",null]]]]
+8:T111d,<h2>题目描述</h2>
+<p>给定一个字符串，请将字符串里的字符按照出现的频率降序排列。</p>
+<p>示例 1:</p>
+<pre><code>输入: "tree"
+
+输出: "eert"
+
+解释:
+'e'出现两次，'r'和't'都只出现一次。
+因此'e'必须出现在'r'和't'之前。此外，"eetr"也是一个有效的答案。
+</code></pre>
+<p>示例 2:</p>
+<pre><code>输入: "cccaaa"
+
+输出: "cccaaa"
+
+解释:
+'c'和'a'都出现三次。此外，"aaaccc"也是有效的答案。
+注意"cacaca"是不正确的，因为相同的字母必须放在一起。
+</code></pre>
+<p>示例 3:</p>
+<pre><code>输入: "Aabb"
+
+输出: "bbAa"
+
+解释:
+此外，"bbaA"也是一个有效的答案，但"Aabb"是不正确的。
+注意'A'和'a'被认为是两种不同的字符。
+</code></pre>
+<h2>解题思路</h2>
+<p>将数组转化成 key 是字母，value 是次数的 map，再根据 value 排序，然后依次打印出次数个字母。</p>
+<h2>解法优化</h2>
+<p>将if(map[key]) map[key] = 0;优化为map[key] = map[key] || 0;后提高了 15ms 左右。</p>
+<p>reduce 和 forEach 之间也有性能上的差别．</p>
+<p>第一名的思路是，将 map 按照 key 转换为次数个字母的字符串数组，再按照数组的长度排序，合并数组Object.keys(map).map((key) => key.repeat(map[key])).sort((x, y) => y.length - x.length).join('')</p>
+<h2>代码展示</h2>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">/**
+ * <span class="hljs-doctag">@param</span> {<span class="hljs-type">string</span>} <span class="hljs-variable">s</span>
+ * <span class="hljs-doctag">@return</span> {<span class="hljs-type">string</span>}
+ */</span>
+<span class="hljs-keyword">var</span> frequencySort = <span class="hljs-keyword">function</span>(<span class="hljs-params">s</span>) {
+  <span class="hljs-keyword">var</span> ac = s.<span class="hljs-title function_">split</span>(<span class="hljs-string">""</span>).<span class="hljs-title function_">reduce</span>(<span class="hljs-function">(<span class="hljs-params">acc, cur</span>) =></span> {
+    acc[cur] = acc[cur] || <span class="hljs-number">0</span>;
+    acc[cur]++;
+    <span class="hljs-keyword">return</span> acc;
+  }, {});
+
+  <span class="hljs-keyword">return</span> <span class="hljs-title class_">Object</span>.<span class="hljs-title function_">entries</span>(ac)
+    .<span class="hljs-title function_">sort</span>(<span class="hljs-function">(<span class="hljs-params">a, b</span>) =></span> b[<span class="hljs-number">1</span>] - a[<span class="hljs-number">1</span>])
+    .<span class="hljs-title function_">reduce</span>(<span class="hljs-function">(<span class="hljs-params">acc, cur</span>) =></span> (acc += cur[<span class="hljs-number">0</span>].<span class="hljs-title function_">repeat</span>(cur[<span class="hljs-number">1</span>])), <span class="hljs-string">""</span>);
+};
+</code></pre>
+<h2>改进后的代码</h2>
+<pre><code class="hljs language-javascript"><span class="hljs-comment">/**
+ * <span class="hljs-doctag">@param</span> {<span class="hljs-type">string</span>} <span class="hljs-variable">s</span>
+ * <span class="hljs-doctag">@return</span> {<span class="hljs-type">string</span>}
+ */</span>
+<span class="hljs-keyword">var</span> frequencySort = <span class="hljs-keyword">function</span>(<span class="hljs-params">s</span>) {
+  <span class="hljs-keyword">let</span> map = {};
+  s.<span class="hljs-title function_">split</span>(<span class="hljs-string">""</span>).<span class="hljs-title function_">forEach</span>(<span class="hljs-function"><span class="hljs-params">c</span> =></span> {
+    map[c] = map[c] || <span class="hljs-number">0</span>;
+    map[c]++;
+  });
+
+  <span class="hljs-keyword">return</span> <span class="hljs-title class_">Object</span>.<span class="hljs-title function_">keys</span>(map)
+    .<span class="hljs-title function_">map</span>(<span class="hljs-function"><span class="hljs-params">key</span> =></span> key.<span class="hljs-title function_">repeat</span>(map[key]))
+    .<span class="hljs-title function_">sort</span>(<span class="hljs-function">(<span class="hljs-params">x, y</span>) =></span> y.<span class="hljs-property">length</span> - x.<span class="hljs-property">length</span>)
+    .<span class="hljs-title function_">join</span>(<span class="hljs-string">""</span>);
+};
+</code></pre>2:["$","article",null,{"children":[["$","header",null,{"className":"mb-10 pb-8 border-b border-gray-800/60","children":[["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","$L6",null,{"href":"/algorithm","className":"font-ui text-xs text-gray-600 hover:text-accent transition-colors tracking-widest uppercase","children":"~/algorithm"}],["$","span",null,{"className":"text-gray-800","children":"/"}],["$","time",null,{"className":"font-ui text-xs text-gray-600","children":"Fri Jan 25"}]]}],["$","h1",null,{"className":"text-2xl font-bold text-gray-100 leading-snug mb-4","children":"451. 根据字符出现的频率排序"}],["$","div",null,{"className":"flex flex-wrap gap-1.5","children":[["$","span","leetcode",{"className":"font-ui text-xs badge-algo px-2 py-0.5 rounded","children":["#","leetcode"]}],["$","span","algorithm",{"className":"font-ui text-xs badge-algo px-2 py-0.5 rounded","children":["#","algorithm"]}],["$","span","js",{"className":"font-ui text-xs badge-algo px-2 py-0.5 rounded","children":["#","js"]}]]}]]}],["$","div",null,{"className":"prose prose-invert prose-dark max-w-none prose-sm prose-p:text-gray-300 prose-headings:text-gray-100 prose-a:text-accent prose-a:no-underline hover:prose-a:underline prose-code:text-gray-200 prose-pre:bg-transparent prose-pre:p-0","dangerouslySetInnerHTML":{"__html":"$8"}}]]}]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"451. 根据字符出现的频率排序 | Tyasrio's blog"}],["$","meta","3",{"name":"description","content":"摸鱼，给我狠狠的摸"}],["$","link","4",{"rel":"icon","href":"/favicon.ico"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:null
